@@ -20,11 +20,3 @@ DOMAIN-SUFFIX,app.shrairo.top
 # 养鸡场XFLTD
 DOMAIN-KEYWORD,xfltd
 DOMAIN-SUFFIX,xn--l6qx3l1p4e.top
-
-# Google 商店
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,clientservices.googleapis.com
-DOMAIN-SUFFIX,update.googleapis.com
-DOMAIN-SUFFIX,translate.googleapis.com
-DOMAIN-SUFFIX,fonts.googleapis.com
