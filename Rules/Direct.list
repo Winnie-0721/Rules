@@ -1,13 +1,3 @@
-# 微软
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bing.cn
-DOMAIN-SUFFIX,tc.mm.bing.net
-DOMAIN-SUFFIX,login.live.com
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,microsoftonline.com
-DOMAIN-SUFFIX,windows.com
-DOMAIN-SUFFIX,xboxlive.com
-
 # GitHub 代理加速
 DOMAIN-SUFFIX,ghproxy.net
 DOMAIN-SUFFIX,gh-proxy.com
